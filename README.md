@@ -29,15 +29,14 @@ This project was created **solely for learning and educational purposes**.
 
 ## 📂 Project Structure
 
-'''
+```
 
-ecommerce-site\
-├── index.html        # Main landing page
-├── styles.css        # Custom styling 
-├── assets/           # Images and icons used 
+
+. ├── index.html        # Main landing page
+├── styles.css        # Custom styling
+├── assets/           # Images and icons used
 └── README.md         # Documentation
-
-'''
+```
 
 🙌 Acknowledgments
 
