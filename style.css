@@ -260,3 +260,15 @@ ul a{
 .copyright {
     padding-top: 5px;
 }
+.disclaimer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: #000;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px;
+    text-align: center;
+    z-index: 9999;
+}
